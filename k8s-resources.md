@@ -1,5 +1,4 @@
-A list of resources for those who want to learn more about Kubernetes and students of our [Certified Kubernetes Administrator](https://rx-m.com/training/cka-sessions/) and [Certified Kubernetes Application Developer](https://rx-m.com/training/ckad-sessions/) boot camps.
-
+A
 
 ## Certification
 
@@ -32,7 +31,7 @@ The Linux Foundation offers self-paced online courses as a good introduction for
 - Introduction to Kubernetes (LFS158) (**free** edX course): <https://www.edx.org/course/introduction-to-kubernetes>
 - Kubernetes Fundamentals (LFS258): <https://training.linuxfoundation.org/training/kubernetes-fundamentals/>
 - Kubernetes for Developers (LFD259): <https://training.linuxfoundation.org/training/kubernetes-for-developers/>
-   - Get a 25% discount for these courses on the RX-M website: <https://rx-m.com/training/cka-discount-registration/>
+
 
 
 ## Direct from Kubernetes

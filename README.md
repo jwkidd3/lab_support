@@ -1,3 +1,3 @@
 # classfiles
 
-Class files for various RX-M courses.
+Class files for various courses.
